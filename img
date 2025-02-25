@@ -1,0 +1,19 @@
+<script>start("/Users/canash28/Desktop/Yummy/assets/img/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("chefs","chefs",1,160,"160 B",1739291917,"2/11/25, 11:38:37 AM");</script>
+<script>addRow("gallery","gallery",1,320,"320 B",1739291917,"2/11/25, 11:38:37 AM");</script>
+<script>addRow("menu","menu",1,256,"256 B",1739291917,"2/11/25, 11:38:37 AM");</script>
+<script>addRow("testimonials","testimonials",1,192,"192 B",1739291917,"2/11/25, 11:38:37 AM");</script>
+<script>addRow("about-2.jpg","about-2.jpg",0,147577,"144 kB",1726160754,"9/12/24, 1:05:54 PM");</script>
+<script>addRow("about.jpg","about.jpg",0,119262,"116 kB",1726160754,"9/12/24, 1:05:54 PM");</script>
+<script>addRow("apple-touch-icon.png","apple-touch-icon.png",0,7489,"7.3 kB",1726160754,"9/12/24, 1:05:54 PM");</script>
+<script>addRow("events-1.jpg","events-1.jpg",0,225878,"221 kB",1726160754,"9/12/24, 1:05:54 PM");</script>
+<script>addRow("events-2.jpg","events-2.jpg",0,242161,"236 kB",1726160754,"9/12/24, 1:05:54 PM");</script>
+<script>addRow("events-3.jpg","events-3.jpg",0,110005,"107 kB",1726160754,"9/12/24, 1:05:54 PM");</script>
+<script>addRow("events-4.jpg","events-4.jpg",0,190681,"186 kB",1726160754,"9/12/24, 1:05:54 PM");</script>
+<script>addRow("favicon.png","favicon.png",0,1156,"1.1 kB",1726160754,"9/12/24, 1:05:54 PM");</script>
+<script>addRow("hero-img.png","hero-img.png",0,192265,"188 kB",1726160754,"9/12/24, 1:05:54 PM");</script>
+<script>addRow("logo.png","logo.png",0,3432,"3.4 kB",1726160754,"9/12/24, 1:05:54 PM");</script>
+<script>addRow("reservation.jpg","reservation.jpg",0,138698,"135 kB",1726160754,"9/12/24, 1:05:54 PM");</script>
+<script>addRow("stats-bg.jpg","stats-bg.jpg",0,305960,"299 kB",1726160754,"9/12/24, 1:05:54 PM");</script>
+<script>addRow("team-shape.svg","team-shape.svg",0,560,"560 B",1726160754,"9/12/24, 1:05:54 PM");</script>
